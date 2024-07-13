@@ -1,0 +1,28 @@
+{
+    "metrics": [
+        {
+            "id": 1,
+            "name": "Revenue",
+            "value": "$24M",
+            "change": "+11.01%"
+        },
+        {
+            "id": 2,
+            "name": "Transaction",
+            "value": "14K",
+            "change": "-0.03%"
+        },
+        {
+            "id": 3,
+            "name": "Average transaction",
+            "value": "$2K",
+            "change": "+15.03%"
+        },
+        {
+            "id": 4,
+            "name": "Refunds",
+            "value": "1K",
+            "change": "+6.08%"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "charts": [
+        {
+            "id": 1,
+            "title": "Revenue",
+            "type": "line",
+            "data": [{
+                "x": "Jan",
+                "y": 1000
+            }, {
+                "x": "Feb",
+                "y": 1500
+            }, {
+                "x": "Mar",
+                "y": 70000
+            }, {
+                "x": "Apr",
+                "y": 200000
+            }, {
+                "x": "May",
+                "y": 50000
+            }]
+        },
+        {
+            "id": 2,
+            "type": "line",
+            "title": "Number of Transactions",
+            "data": [5, 4, 3, 2, 1]
+        },
+        {
+            "id": 3,
+            "type": "bar",
+            "title": "Number of Transactions",
+            "data": [5, 4, 3, 2, 1]
+        },
+        {
+            "id": 4,
+            "type": "pie",
+            "title": "Number of Transactions",
+            "data": [5, 4, 3, 2, 1]
+        }
+    ]
+}
